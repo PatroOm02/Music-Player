@@ -83,11 +83,7 @@ All relevant image assets (artist icons, album covers, etc.) are stored in the `
 
 ---
 
-## 📷 Preview
 
-> Screenshots or demo GIFs can be added here to showcase the homepage and artist view.
-
----
 
 ## 📄 License
 
